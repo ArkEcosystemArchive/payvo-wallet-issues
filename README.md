@@ -15,7 +15,7 @@ As always, make sure to go over the existing list of issues before you add your 
 When you run into an issue with the web wallet, you can open a Bug Report to inform us about this. We consider an issue to be a bug, when you can answer yes to at least one of the below questions:
 
 - **Does it inhibit me from using the regular flow of actions in the web wallet?** E.g. you get stuck on a step in a form, or you cannot continue the process of creating a transaction.
-- **Does it result in a crash on a page?** E.g. you click a the `continue` button while an input is not filled in and the next step crashes while trying to use the field's value.
+- **Does it result in a crash on a page?** E.g. you click a `continue` button while an input is not filled in and the next step crashes while trying to use the field's value.
 - **Does it allow me to access something that I should not have access to?** E.g. you are able to access another profile's transaction overview.
 - **Does it affect the UI in a negative way?** E.g. having content pushed out of view, links not resolving, or being unable to click on a button due to something else overlapping it or not being able to scroll to it.
 
