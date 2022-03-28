@@ -1,0 +1,13 @@
+name: Improvement
+description: File an improvement for the Web Wallet
+labels: ["refactor"]
+body:
+    - type: markdown
+      attributes:
+          value: Thanks for taking the time to let us know about a possible improvement! Please fill out this form as completely as possible.
+    - type: textarea
+      attributes:
+          label: Describe the improvement you'd like to see
+          description: A clear and detailed description of what you want to see changed.
+      validations:
+          required: true
