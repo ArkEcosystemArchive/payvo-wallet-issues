@@ -1,6 +1,6 @@
-# Payvo Wallet
+# Payvo Wallet - Beta Testing
 
-<!-- ![Payvo Wallet](./banner.png) -->
+![Payvo Wallet](./banner.png)
 
 The web wallet is available at [beta.payvo.com](https://beta.payvo.com/) and works in all major browsers on all major operating systems.
 
