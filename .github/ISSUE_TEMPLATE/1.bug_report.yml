@@ -1,6 +1,5 @@
 name: Bug Report
 description: Create a bug report for the Web Wallet
-title: '[Section] '
 labels: ["bug"]
 body:
     - type: markdown
@@ -38,8 +37,8 @@ body:
           required: true
     - type: input
       attributes:
-          label: What browser are you using?
-          description: 'For example: Chrome, Safari'
+          label: What browser are you using and which version?
+          description: 'For example: Chrome Version 100.0.4896.75 (Official Build) (arm64), Safari 15.4 (17613.1.17.1.6)'
       validations:
           required: true
     - type: markdown

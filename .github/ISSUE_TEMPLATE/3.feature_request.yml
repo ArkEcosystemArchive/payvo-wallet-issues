@@ -1,6 +1,5 @@
 name: Feature Request
 description: Create a feature request for the Web Wallet
-title: '[Section] '
 labels: ["feature"]
 body:
     - type: markdown
